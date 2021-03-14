@@ -1,0 +1,1255 @@
+#topgrey{
+    position: absolute;
+width: 1500px;
+height: 39px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+border-radius: 0px;
+}
+#scraptalk {
+position: absolute;
+width: 400px;
+height: 75px;
+left: 150px;
+top: 86px;
+
+font-family: "Roboto";
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #00C5E0;
+}
+#twitch-plugin {
+    position: absolute;
+width: 400px;
+height: 75px;
+left: 150px;
+top: 168px;
+
+font-family: "Roboto";
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #00C5E0;
+}
+#curbtoxic {
+    position: absolute;
+width: 475px;
+height: 46px;
+left: 150px;
+top: 312px;
+
+font-family: "Roboto";
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#textbox1{
+    position: absolute;
+    width: 351px;
+    height: 398px;
+    left: 150px;
+    top: 353px;
+    
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    /* or 137% */
+    
+    
+    color: #000000;  
+}
+#image1 {
+    position: absolute;
+width: 750px;
+height: 852px;
+left: 550px;
+top: 98px;
+border-radius: 5px 5px 5px 0px;
+}
+#smallSquare {
+    position: absolute;
+width: 74px;
+height: 61px;
+left: 96px;
+top: 808px;
+
+background: #C4C4C4;
+}
+#roundBox {
+    position: absolute;
+width: 750px;
+height: 102px;
+left: 150px;
+top: 848px;
+
+background: #E5E5E5;
+mix-blend-mode: multiply;
+border-radius: 20px 100px 0px 20px;
+}
+#roundBoxText {position: absolute;
+    width: 350px;
+    height: 159px;
+    left: 175px;
+    top: 873px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    /* or 150% */
+    
+    
+    color: #000000;
+}
+#middleGreyBox {
+position: absolute;
+width: 750px;
+height: 549px;
+left: 150px;
+top: 1001px;
+
+background: #3F5464;
+border-radius: 5px 5px 0px 5px;
+}
+#computerDiagram {
+    position: absolute;
+width: 550px;
+height: 549px;
+left: 250px;
+top: 1001px;
+}
+#identifyingMechanismText {
+    position: absolute;
+width: 356px;
+height: 177px;
+left: 952px;
+top: 1002px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 28px;
+line-height: 40px;
+/* or 143% */
+
+
+color: #000000;
+
+}
+#blueBreak {
+    position: absolute;
+    width: 1500px;
+    height: 700px;
+    left: 0px;
+    top: 1270px;
+    
+    background: #00C5E0;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+#scraptalkInfographic1 {
+    position: absolute;
+width: 350px;
+height: 550px;
+left: 950px;
+top: 1300px;
+border-radius: 5px;
+}
+#infographicGreyBox{
+    position: absolute;
+width: 78px;
+height: 54px;
+left: 964px;
+top: 1311px;
+
+background: #C4C4C4;
+}
+#whiteBox1{
+    position: absolute;
+width: 350px;
+height: 152px;
+left: 550px;
+top: 1500px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 50px 0px 20px 20px;
+
+}
+#greyBoxinWhiteBox1 {
+    position: absolute;
+width: 75px;
+height: 25px;
+left: 775px;
+top: 1525px;
+
+background: #C4C4C4;
+}
+#textInWhiteBox1{
+    position: absolute;
+width: 306px;
+height: 159px;
+left: 569px;
+top: 1575px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+
+
+color: #000000;
+}
+#whiteBox2 {
+    position: absolute;
+width: 900px;
+height: 100px;
+left: 150px;
+top: 1750px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 20px 100px 0px 20px;
+}
+#whiteBox2Text {
+    position: absolute;
+width: 350px;
+height: 159px;
+left: 175px;
+top: 1775px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+
+
+color: #000000;
+}
+#whiteBox2GreyBox {
+    position: absolute;
+width: 71px;
+height: 18px;
+left: 564px;
+top: 1775px;
+
+background: #C4C4C4;
+}
+#trashTalkText{
+position: absolute;
+width: 400px;
+height: 75px;
+left: 150px;
+top: 1840px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#toxicChat{
+    position: absolute;
+    width: 551px;
+    height: 450px;
+    left: 750px;
+    top: 2077px;
+}
+#toxicityLine{
+    position: absolute;
+width: 450px;
+height: 75px;
+left: 150px;
+top: 1968px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #00C5E0;
+
+}
+#notAllTrashTalk {
+    /* Not all Trash Talk is Toxic */
+
+position: absolute;
+width: 475px;
+height: 46px;
+left: 150px;
+top: 2051px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#gamingCapital {
+    /* Gaming capital refers to the intangible social assets that enable competitive video gaming environments to function smoothly. As a hybrid of in-game peer pressure and the drive to maintain a reputation of skill, trash talking other players is often considered gaming capital and is thus even integral to the gaming experience. Occasionally, however, trash talk goes further than friendly jibes and banter; gaming toxicity refers to the intentional harassment and abuse of other players within a video game environment. “According to Ditch the Label, an anti-bullying organization and partner of gaming giant Electronic Arts (EA), nearly 60 percent of players have been bullied in an online game whether for being female, black, gay or simply for showing up at the wrong place at the wrong time” */
+
+position: absolute;
+width: 550px;
+height: 249px;
+left: 150px;
+top: 2118px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 22px;
+/* or 137% */
+
+color: #000000;
+}
+#greyRoundBox {
+    /* Rectangle 65 */
+
+position: absolute;
+width: 750px;
+height: 102px;
+left: 150px;
+top: 2427px;
+
+background: #E5E5E5;
+mix-blend-mode: multiply;
+border-radius: 20px 100px 0px 20px;
+}
+#graph1 {
+    /* graph 1 */
+
+position: absolute;
+width: 750px;
+height: 402px;
+left: 150px;
+top: 2650px;
+
+background: url(graph.jpg);
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#linQuote {
+    /* “The vast majority was from the average person just having a bad day,” says Lin. They behaved well for the most part, but lashed out on rare occasions. */
+
+position: absolute;
+width: 356px;
+height: 177px;
+left: 944px;
+top: 2651px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 28px;
+line-height: 33px;
+
+color: #000000;
+}
+#greyRoundBox2{
+    /* Rectangle 61 */
+
+position: absolute;
+width: 750px;
+height: 102px;
+left: 800px;
+top: 2948px;
+
+background: #E5E5E5;
+mix-blend-mode: multiply;
+border-radius: 20px 100px 0px 20px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+#gamingCulture {
+    /* Gaming Culture */
+
+position: absolute;
+width: 494px;
+height: 75px;
+left: 149px;
+top: 3092px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+color: #D62828;
+}
+#redBreak {
+    /* Rectangle 83 */
+
+position: absolute;
+width: 1500px;
+height: 626px;
+left: 0px;
+top: 3150px;
+
+background: #FF0000;
+z-index: -1;
+}
+#maleSpace {
+    /* A Saturated Male Space */
+
+position: absolute;
+width: 544px;
+height: 75px;
+left: 150px;
+top: 3170px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+#jefMap {
+position: absolute;
+width: 751px;
+height: 400px;
+left: 149px;
+top: 3226px;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+#whiteBarHor {
+    /* Line 22 */
+
+position: absolute;
+width: 453px;
+height: 0px;
+left: 1060px;
+top: 3251px;
+
+border: 3px solid #FFFFFF;
+background-color: white;
+transform: rotate(-180deg);
+}
+#whiteBarVert {
+    /* Line 23 */
+
+position: absolute;
+width: 21px;
+height: 0px;
+left: 1045px;
+top: 3251px;
+
+border: 3px solid #FFFFFF;
+background-color: white;
+transform: rotate(-90deg);
+}
+#whiteList {
+    /* Whitelist */
+
+position: absolute;
+width: 400px;
+height: 46px;
+left: 950px;
+top: 3218px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+#freedomOfSpeech {
+    /* Freedom of speech is an important part of one’s experience playing video games, so it is crucial that streamers choose if and when Scraptalk is enabled on their streams. When Scraptalk is active, potential viewers of that stream must consent to Scraptalk’s terms or simply watch another stream. Scraptalk operates on a 3-strike basis. On a third offense, the offender is banned from all streams that have Scraptalk enabled. Sorry trolls, hate has no place here! */
+
+position: absolute;
+width: 351px;
+height: 355px;
+left: 950px;
+top: 3269px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* or 137% */
+
+color: #FFFFFF;
+}
+#grilGamer {
+    /* female streamer 1 */
+position: absolute;
+width: 350px;
+height: 399px;
+left: 950px;
+top: 3526px;
+}
+#whiteBox4{
+    /* Rectangle 71 */
+
+position: absolute;
+width: 350px;
+height: 152px;
+left: 550px;
+top: 3576px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 50px 0px 20px 20px;
+
+}
+#greyBox3 {
+    /* Rectangle 72 */
+
+position: absolute;
+width: 950px;
+height: 102px;
+left: 150px;
+top: 3824px;
+
+background: #E5E5E5;
+mix-blend-mode: multiply;
+border-radius: 20px 100px 0px 20px;
+
+}
+#greyBox4{
+    /* Rectangle 108 */
+
+position: absolute;
+width: 60px;
+height: 48px;
+left: 125px;
+top: 3792px;
+
+background: #C4C4C4;
+
+}
+#scraptalkFunction{
+    /* Scraptalk’s primary beneficiaries comprises streamers who consistently face harassment by other players; namely women and other minorities. */
+
+position: absolute;
+width: 325px;
+height: 159px;
+left: 175px;
+top: 3852px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+
+color: #000000;
+}
+#longGreyBox{
+    /* Rectangle 109 */
+
+position: absolute;
+width: 34px;
+height: 822px;
+left: 85px;
+top: 3951px;
+
+background: #C4C4C4;
+
+}
+#scraptalkDemo {
+    /* ScrapTalk as jpeg_Page_11 1 */
+
+position: absolute;
+width: 1150px;
+height: 650px;
+left: 150px;
+top: 3975px;
+}
+#greyBox5{
+    /* Rectangle 82 */
+
+position: absolute;
+width: 350px;
+height: 152px;
+left: 950px;
+top: 4576px;
+
+background: #E5E5E5;
+mix-blend-mode: multiply;
+border-radius: 50px 0px 20px 20px;
+}
+#greyBox5text{
+    /* Here, we see a user attempt to tune in to a stream that has Scraptalk enabled. They must either consent to the use of Scraptalk for this stream or watch something else. */
+
+position: absolute;
+width: 331px;
+height: 77px;
+left: 969px;
+top: 4651px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+
+color: #000000;
+}
+#behaviorChange {
+    /* Behavior Change */
+
+position: absolute;
+width: 494px;
+height: 75px;
+left: 150px;
+top: 4768px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+color: #FCBF49;
+}
+#yellowBreak {
+    /* Rectangle 84 */
+
+position: absolute;
+width: 1584px;
+height: 900px;
+left: 0px;
+top: 4826px;
+
+background: #FDD013;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+#scraptalkWorks {
+    /* What Makes Scraptalk Work */
+
+position: absolute;
+width: 544px;
+height: 75px;
+left: 150px;
+top: 4845px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+#gamerOptions{
+    /* Giving Gamers Options */
+
+position: absolute;
+width: 475px;
+height: 46px;
+left: 150px;
+top: 4925px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#ih8freedom{
+    /* The biggest challenge I faced in designing Scraptalk was working with the “freedom of speech” value held by competitive gaming culture (and American culture) at large. Many toxic users equate “freedom of speech” to “freedom of hate speech,” and it is this behavior in particular that Scraptalk targets and attempts to change. It is vital that users feel as if their hate speech is not being censored, so allowing users the option to send their message anyway is critical. The ideal action a user would take is to simply scap the message entirely, but users are also allowed to retype their message without toxicity. The aim of Scraptalk is not to censor all hate speech but rather to encourage users to practice “sensibility of speech” alongside “freedom of speech.” */
+
+position: absolute;
+width: 351px;
+height: 360px;
+left: 150px;
+top: 4966px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 22px;
+/* or 137% */
+
+color: #000000;
+
+
+}
+#userFlowchart {
+    /* user map re rendered 1 */
+
+position: absolute;
+width: 751px;
+height: 695px;
+left: 550px;
+top: 4932px;
+}
+#whiteBarHor2 {
+    /* Line 24 */
+
+position: absolute;
+width: 130px;
+height: 0px;
+left: -4px;
+top: 4939px;
+
+border: 3px solid #FFFFFF;
+background-color: white;
+}
+#whiteBarVert2{
+    position: absolute;
+width: 21px;
+height: 0px;
+left: 126px;
+top: 4927px;
+
+border: 3px solid #FFFFFF;
+background-color: white;
+transform: rotate(90deg);
+}
+#umpteenthWhiteBox {
+    /* Rectangle 66 */
+
+position: absolute;
+width: 550px;
+height: 102px;
+left: 150px;
+top: 5525px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 20px 100px 0px 20px;
+
+}
+#umpteenthWhiteBoxText {
+    /* If a user chooses to send their abusive message in spite of being warned, Scraptalk adds a strike to that user’s profile and informs the sender of the toxicity in their flagged message. */
+
+position: absolute;
+width: 350px;
+height: 159px;
+left: 175px;
+top: 5552px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+
+color: #000000;
+
+
+}
+#theUnsentAngryLetter{
+    /* The Unsent Angry Letter */
+
+position: absolute;
+width: 400px;
+height: 46px;
+left: 950px;
+top: 5674px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+#whiteBoxHor3{
+    /* Line 26 */
+
+position: absolute;
+width: 284px;
+height: 0px;
+left: 1512px;
+top: 5685px;
+
+border: 3px solid #FFFFFF;
+transform: rotate(-180deg);
+background-color: white;
+}
+#whiteBoxVert3{
+    /* Rectangle 84 */
+
+position: absolute;
+width: 1584px;
+height: 900px;
+left: 1546px;
+top: 4826px;
+
+background: #FDD013;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+#gamingToxicity {
+    /* The prevalence of gaming toxicity is no accident. When early game consoles first hit the market, video games were marketed as an outlet for frustrated people to vent their anger. Mix this with anonymous handles and a lack of accountability and you have a whole lot of toxic trash talk on your hands. Scraptalk does not discount the theraputic qualities venting in gaming allows, but research shows that the relief felt by such behavior occurs not in the sending of the message, but rather in the typing. Thus, like an angry letter you decide not to mail, not all trash talk should reach its intended audience. */
+
+position: absolute;
+width: 351px;
+height: 355px;
+left: 950px;
+top: 5736px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 22px;
+/* or 137% */
+
+color: #000000;
+}
+#angryGamer{
+    /* Angry-gamer-shutterstock 1 */
+
+position: absolute;
+width: 750px;
+height: 350px;
+left: 150px;
+top: 5675px;
+}
+#scraptalkRender {
+    /* re render scraptalk_Page_18 1 */
+
+position: absolute;
+width: 400px;
+height: 900px;
+left: 150px;
+top: 6075px;
+}
+#greyBoxHor1 {
+/* Line 9 */
+
+position: absolute;
+width: 275px;
+height: 0px;
+left: 471px;
+top: 6163px;
+
+mix-blend-mode: multiply;
+border: 4px solid #C4C4C4;
+background-color: #c4c4c4;
+}
+#greyBoxHor2 {
+    /* Line 9 */
+
+position: absolute;
+width: 275px;
+height: 0px;
+left: 471px;
+top: 6260px;
+
+mix-blend-mode: multiply;
+border: 4px solid #C4C4C4;
+background-color: #c4c4c4;
+}
+#greyBoxHor3 {
+    /* Line 9 */
+
+position: absolute;
+width: 294px;
+height: 0px;
+left: 452px;
+top: 6438px;
+
+mix-blend-mode: multiply;
+border: 4px solid #C4C4C4;
+background-color: #c4c4c4;
+}
+#greyBoxHor4 {
+    /* Line 9 */
+
+position: absolute;
+width: 396px;
+height: 0px;
+left: 350px;
+top: 6588px;
+
+mix-blend-mode: multiply;
+border: 4px solid #C4C4C4;
+background-color: #c4c4c4;
+}
+#greyRound1 {
+/* Ellipse 3 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 429px;
+top: 6428px;
+border-radius: 140px 140px 140px 140px;
+background: #C4C4C4;
+mix-blend-mode: multiply;
+
+}
+#greyRound2 {
+    /* Ellipse 3 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 327px;
+top: 6578px;
+border-radius: 140px 140px 140px 140px;
+background: #C4C4C4;
+mix-blend-mode: multiply;
+
+}
+#greyBoxVert1{
+/* Line 12 */
+
+position: absolute;
+width: 27px;
+height: 0px;
+left: 740px;
+top: 6165px;
+
+border: 4px solid #C4C4C4;
+transform: rotate(90deg);
+
+}
+#greyBoxVert2{
+    /* Line 12 */
+
+position: absolute;
+width: 27px;
+height: 0px;
+left: 740px;
+top: 6257px;
+
+border: 4px solid #C4C4C4;
+transform: rotate(90deg);
+
+}
+#greyBoxVert3{
+    /* Line 12 */
+
+position: absolute;
+width: 27px;
+height: 0px;
+left: 740px;
+top: 6435px;
+
+border: 4px solid #C4C4C4;
+transform: rotate(90deg);
+
+}
+#greyBoxVert4{
+    /* Line 12 */
+
+position: absolute;
+width: 27px;
+height: 0px;
+left: 740px;
+top: 6585px;
+
+border: 4px solid #C4C4C4;
+transform: rotate(90deg);
+
+}
+#topText{
+    /* This top text consists of the toxic message (and explanation) returned to its sender for evaluation. The problematic part of the message is highighted in red. */
+
+position: absolute;
+width: 503px;
+height: 159px;
+left: 800px;
+top: 6140px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+
+color: #000000;
+
+
+}
+#bottomText {
+    /* The bottom part of the returned message consists of the sender’s Twitch username. This is to counter the anonymity and lack of accountability that enables toxic trash talk to exist. */
+
+position: absolute;
+width: 500px;
+height: 159px;
+left: 800px;
+top: 6243px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+
+color: #000000;
+}
+#colorPsych{
+/* Color Psychology: Priming */
+
+position: absolute;
+width: 400px;
+height: 46px;
+left: 950px;
+top: 6378px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+}
+#colorPsychText{
+/* In Western Culture, the color red has been linked to error avoidance while the color blue has been linked to creative thinking. By priming the text I needed users to associate with errors in red— and the text I needed users to think creatively about in blue, I am able to subtly influence the behaviors of gamers without stepping on the toes of “freedom of speech,” an issue many gamers feel particularly strongly about. Yellow is frequently used to denote interactions or options for further inquiry within a game (i.e. a quest) and we use it sparingly to encourage users to interact with Scraptalk. Versions of Scraptalk marketed to other cultures may have to edit its color scheme. */
+
+position: absolute;
+width: 351px;
+height: 355px;
+left: 950px;
+top: 6418px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 22px;
+/* or 137% */
+
+color: #000000;
+}
+#highlight1{
+    /* Rectangle 101 */
+
+position: absolute;
+width: 97px;
+height: 30px;
+left: 411px;
+top: 6134px;
+
+background: #FF0000;
+opacity: 0.25;
+border-radius: 5px;
+
+}
+#highlight2 {
+    /* Rectangle 102 */
+
+position: absolute;
+width: 226px;
+height: 34px;
+left: 282px;
+top: 6168px;
+
+background: #FF0000;
+opacity: 0.25;
+border-radius: 5px;
+}
+#redBox{
+/* Rectangle 93 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 800px;
+top: 6375px;
+
+background: #F04345;
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+#blueBox{
+   /* Rectangle 94 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 800px;
+top: 6524px;
+
+background: #00C5E0;
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+ 
+}
+#yellowBox{
+  /* Rectangle 95 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 800px;
+top: 6675px;
+
+background: #FDD013;
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);  
+}
+#frown {
+    /* >:( */
+
+position: absolute;
+width: 74px;
+height: 75px;
+left: 810px;
+top: 6386px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+#question{
+    /* ? */
+
+position: absolute;
+width: 48px;
+height: 113px;
+left: 829px;
+top: 6518px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 112px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+#exclamation {
+    /* ! */
+
+position: absolute;
+width: 27px;
+height: 113px;
+left: 837px;
+top: 6668px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 112px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+#whiteBoxLow1 {
+    /* Rectangle 97 */
+
+position: absolute;
+width: 99px;
+height: 28px;
+left: 801px;
+top: 6475px;
+
+background: #FFFFFF;
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+#whiteBoxLow2{
+/* Rectangle 98 */
+
+position: absolute;
+width: 99px;
+height: 28px;
+left: 801px;
+top: 6623px;
+
+background: #FFFFFF;
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+#whiteBoxLow3{
+/* Rectangle 96 */
+
+position: absolute;
+width: 99px;
+height: 28px;
+left: 801px;
+top: 6775px;
+
+background: #FFFFFF;
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#greyBoxPentult {
+    /* Rectangle 64 */
+
+position: absolute;
+width: 950px;
+height: 102px;
+left: 350px;
+top: 6875px;
+
+background: #E5E5E5;
+mix-blend-mode: multiply;
+border-radius: 20px 100px 0px 20px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+#greyBoxPentultText {
+    /* User testing revealed that all 3 button options should be coded with the same color. When “send anyway” was red, that option stood out far more than the others and was thus picked more. */
+
+position: absolute;
+width: 350px;
+height: 159px;
+left: 950px;
+top: 6895px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+
+color: #000000;
+}
+#greyBoxFinal {
+    /* Rectangle 113 */
+
+position: absolute;
+width: 288px;
+height: 123px;
+left: 812px;
+top: 7009px;
+
+background: #C4C4C4;
+}
